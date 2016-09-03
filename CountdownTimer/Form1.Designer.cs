@@ -43,7 +43,6 @@
             this.lblCountdown.Size = new System.Drawing.Size(928, 241);
             this.lblCountdown.TabIndex = 3;
             this.lblCountdown.Text = "00:00:00";
-            this.lblCountdown.Click += new System.EventHandler(this.lblCountdown_Click);
             // 
             // btnRemoveTime
             // 
